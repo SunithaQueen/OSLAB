@@ -2,7 +2,7 @@
 ![Program file](fcfs.py)
 
 # sample output
-![sample output](sample output.png)
+![sample output](sampleoutput.png)
 
 # Tested Output
 ![Tested Output](TestedOutput.png)
