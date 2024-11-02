@@ -2,7 +2,7 @@
 [program file](program.png)
 
 # 9a sample output
-[sample output](sampleoutput.png)
+[sample output](programoutput.png)
 
 # 9a tested output
 [tested output](testedoutput.png)
